@@ -1,3 +1,4 @@
+# This is my first python file and playing around with git and github
 # Initialize daily goal and total water consumed
 daily_goal = 64  # You can change this value as needed
 total_water = 0
