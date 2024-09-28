@@ -3,6 +3,11 @@
 daily_goal = 64  # You can change this value as needed
 total_water = 0
 
+"""
+Main loop for tracking water intake.
+
+This loop prompts the user to enter the amount of water consumed, adds it to the total water consumed, and displays the updated total. It also checks if the daily goal has been met or exceeded, and provides a message accordingly. The loop continues until the user enters 'done' to stop.
+"""
 # Main loop for tracking water intake
 while True:
         try:
